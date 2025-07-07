@@ -13,10 +13,6 @@ I'm a beginner front-end developer passionate about building beautiful, responsi
 - RESTful APIs and asynchronous JavaScript
 - Testing with Jest and React Testing Library
 
-### 💼 Featured Projects:
-- [Portfolio Website](https://your-portfolio-link.com) – A showcase of my work and skills
-- [ToDo App](https://github.com/DevRainer/todo-app) – A task manager built with React and localStorage
-
 ### 📫 Let's connect:
 - LinkedIn: [linkedin.com/in/rainergsilva](https://linkedin.com/in/rainergsilva)
 - Email: rainersilva.rgs@gmail.com
