@@ -23,9 +23,10 @@ I'm a beginner front-end developer passionate about building beautiful, responsi
 
 Let's build something amazing together! 🚀
 
- <br>
+
 [![Rainer GitHub stats](https://github-readme-stats.vercel.app/api?username=DevRainer)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRainer)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<br>
 ⚠️ NOTICE: PROFILE UNDER DEVELOPMENT!
