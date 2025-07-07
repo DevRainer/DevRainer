@@ -27,5 +27,5 @@ I'm a beginner front-end developer passionate about building beautiful, responsi
 
 Let's build something amazing together! 🚀
 
+⚠️ NOTICE: PROFILE UNDER DEVELOPMENT!
 
-AVISO: PERFIL EM DESENVOLVIMENTO!
