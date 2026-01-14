@@ -31,6 +31,15 @@ Software Engineer in training with a solid background in IT infrastructure and c
 - **LinkedIn:** [linkedin.com/in/rainergsilva](https://linkedin.com/in/rainergsilva)
 - **E-mail:** rainergsilva@hotmail.com
 
-### 📊 GitHub Stats
 
-![Metrics](https://metrics.lecoq.io/?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FSao_Paulo)
+
+### 📊 Activity & Performance
+
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=DevRainer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DevRainer&theme=dracula" />
+</p>
+
+<p align="center">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRainer&layout=compact&langs_count=10&theme=dracula" />
+</p>
