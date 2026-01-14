@@ -1,32 +1,39 @@
-## 👋 Hi there! I'm Rainer
+# Hi, I'm Rainer Silva! 👋
 
-I'm a beginner front-end developer passionate about building beautiful, responsive, and accessible web interfaces. I'm currently focused on learning modern web technologies and improving my coding skills every day.
+Software Engineer in training with a solid background in IT infrastructure and critical systems. Currently focused on developing modern **Fullstack** solutions, merging reactive interfaces with robust backend architectures.
 
-### 🚀 Technologies I'm learning:
-- HTML5, CSS3, and JavaScript (ES6+)
-- React and component-based development
-- Git and GitHub for version control
-- Responsive design and accessibility principles
+### 🚀 About Me
+- 🎓 Post-graduate in **Database Systems** and **Cloud Computing**.
+- 🧠 Specializing in **Artificial Intelligence** (expected 2026).
+- ⚡ 14 years of experience in Telecom & IT, applying resilience and logical analysis to software development.
+- 🛠️ Currently focused on the **JavaScript ecosystem** (React, Node.js, and TypeScript).
 
-### 📚 Currently exploring:
-- React Router and state management
-- RESTful APIs and asynchronous JavaScript
-- Testing with Jest and React Testing Library
+### 🛠️ Tech Stack & Tools
 
-### 📫 Let's connect:
-- LinkedIn: [linkedin.com/in/rainergsilva](https://linkedin.com/in/rainergsilva)
-- Email: rainersilva.rgs@gmail.com
+**Front-end**
+- ⚛️ **React.js** | 🟨 **JavaScript (ES6+)** | 🟧 **HTML5** | 🟦 **CSS3** | 💅 **Styled Components**
 
-### ✨ Fun facts:
-- I love learning new technologies and sharing what I discover
-- I believe consistency and curiosity are key to growth
+**Back-end**
+- 🟢 **Node.js** | 🚀 **Express** | 🌐 **REST APIs**
 
-Let's build something amazing together! 🚀
+**Data & Infra**
+- 🐬 **MySQL** | 🍃 **MongoDB** | 🐳 **Docker** | ☁️ **Cloud Computing**
 
+**Monitoring**
+- 📊 **Zabbix** | 📈 **Grafana**
 
-[![Rainer GitHub stats](https://github-readme-stats.vercel.app/api?username=DevRainer)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 Featured Projects
+* 📁 **[Fullstack User Management](https://github.com/DevRainer/Cadastro-de-usuarios):** Complete CRUD integrating React and Node.js via Axios.
+* 📁 **[Nodejs-MongoDB API](https://github.com/DevRainer/Nodejs-MongoDB):** Robust API focused on data persistence and security.
+* 📁 **[Currency Converter](https://github.com/DevRainer/conversor-de-moedas):** Real-time data manipulation using external exchange rate APIs.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRainer)](https://github.com/anuraghazra/github-readme-stats)
+### 📫 Let's Connect
+- **LinkedIn:** [linkedin.com/in/rainergsilva](https://linkedin.com/in/rainergsilva)
+- **E-mail:** rainergsilva@hotmail.com
 
-<br>
-⚠️ NOTICE: PROFILE UNDER DEVELOPMENT!
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevRainer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRainer&layout=compact&langs_count=7&theme=dracula" />
+</div>
