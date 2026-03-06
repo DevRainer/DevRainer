@@ -31,5 +31,8 @@ Software Engineer in training with a solid background in IT infrastructure and c
 - **LinkedIn:** [linkedin.com/in/rainergsilva](https://linkedin.com/in/rainergsilva)
 - **E-mail:** rainergsilva@hotmail.com
 
+### 📈 Estatísticas
+![GitHub Streak](https://streak-stats.demolab.com?user=DevRainer&theme=radical&date_format=j%20M%5B%20Y%5D)  
+
 
 
